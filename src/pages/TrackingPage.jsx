@@ -8,7 +8,7 @@ export function TrackingPage() {
                 <div className="left-section">
                     <a href="/" className="header-link">
                         <img className="logo"
-                            src="images/logo-white.png" />
+                            src="images/banger.png" />
                         <img className="mobile-logo"
                             src="images/mobile-logo-white.png" />
                     </a>
